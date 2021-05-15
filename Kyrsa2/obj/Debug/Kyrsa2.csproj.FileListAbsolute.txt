@@ -1,0 +1,7 @@
+C:\Users\МSI\source\repos\Kyrsa2\Kyrsa2\bin\Debug\Kyrsa2.exe.config
+C:\Users\МSI\source\repos\Kyrsa2\Kyrsa2\bin\Debug\Kyrsa2.exe
+C:\Users\МSI\source\repos\Kyrsa2\Kyrsa2\bin\Debug\Kyrsa2.pdb
+C:\Users\МSI\source\repos\Kyrsa2\Kyrsa2\obj\Debug\Kyrsa2.csprojAssemblyReference.cache
+C:\Users\МSI\source\repos\Kyrsa2\Kyrsa2\obj\Debug\Kyrsa2.csproj.CoreCompileInputs.cache
+C:\Users\МSI\source\repos\Kyrsa2\Kyrsa2\obj\Debug\Kyrsa2.exe
+C:\Users\МSI\source\repos\Kyrsa2\Kyrsa2\obj\Debug\Kyrsa2.pdb
